@@ -70,7 +70,7 @@ class SpringTestApplicationTests {
 		val endTime = System.currentTimeMillis()
 		println("Total time with Coroutines: ${endTime - startTime}ms")
 	}
-}//test commit
+}
 
 
 
